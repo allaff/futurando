@@ -3,6 +3,7 @@ export default function Home() {
     <>
       <h1>Teste 1</h1>
       <p>Testando do meu para o remoto</p>
+      <p>Testando</p>
     </>
   )
 }
