@@ -76,15 +76,3 @@ Certifique-se de instalar e configurar essas extensões em seu editor de código
         "git.confirmSync": false,
     }
 ```
-
-## Contribuindo
-
-Se você deseja contribuir com o projeto Next.js, siga estas diretrizes:
-
-1. **Escolha uma tarefa**: Procure as [issues abertas](https://github.com/nextjs/next.js/issues) no repositório do projeto e encontre uma tarefa que deseja trabalhar. Se não encontrar uma tarefa adequada, crie uma nova issue descrevendo sua proposta de contribuição.
-
-2. **Faça um fork**: Faça um fork do repositório Next.js em sua própria conta do GitHub.
-
-3. **Crie um branch**: Crie um branch em seu fork para trabalhar na tarefa selecionada.
-
-4. **Implemente as alterações**: Faça as alterações necessárias no código para resolver a tarefa. Certifique-se de seguir as convenções de código existentes e escrever testes adequados, se aplicável.
